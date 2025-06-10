@@ -1,6 +1,6 @@
 # IPFlare
 
-![IPFlare Logo](logo.png)
+![IPFlare Logo](https://github.com/Argh94/IPFlare/blob/main/img/logo.png)
 
 IPFlare یک ابزار قدرتمند و شیک برای بررسی، اعتبارسنجی و مدیریت IPها، دامنه‌ها و پروکسی‌هاست که با تکنولوژی Cloudflare Workers توسعه داده شده است. این پروژه با رابط کاربری مدرن، انیمیشن‌های جذاب و قابلیت‌های پیشرفته، به شما کمک می‌کند تا اتصالات شبکه خود را با سرعت و دقت بالا تست کنید، اطلاعات جغرافیایی IPها را ببینید و از API قدرتمند آن برای اتوماسیون استفاده کنید. آماده باشید شبکه‌تان را مثل یک حرفه‌ای کنترل کنید! 
 
@@ -104,13 +104,13 @@ wrangler deploy
 
 ### حالت دسکتاپ
 
-![IPFlare Desktop](screenshots/desktop.png)
+![IPFlare Desktop](https://github.com/Argh94/IPFlare/blob/main/img/desktop.png)
 
 > توضیح: رابط کاربری در حالت دسکتاپ با چیدمان دوستونه و افکت‌های hover.
 
 ### حالت موبایل
 
-![IPFlare Mobile](screenshots/mobile.png)
+![IPFlare Mobile](https://github.com/Argh94/IPFlare/blob/main/img/mobile.png)
 
 > توضیح: طراحی ریسپانسیو برای موبایل با تمرکز بر لمس‌پذیری.
 
